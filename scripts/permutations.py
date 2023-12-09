@@ -56,6 +56,7 @@ def get_permutations(line):
 
     permutation = list(line)
 
+    # Keep swapping characters until the last permutation is the same as the original line
     while permutations == [] or permutations[-1] != line:
         for i in range(length - 1):
             swap_a = permutation[i]

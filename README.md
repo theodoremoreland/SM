@@ -11,7 +11,13 @@
 
 An entity relationship diagram for product details page.
 
+<img src="sql/SMT ERD.png" width="600">
+
+Reference page: https://www.pvcfittingsonline.com/8008-015ab-1-1-2-schedule-80-pvc-pipe-5-ft-section.html#
+
 ### Corresponding MySQL DDL
+
+Find MySQL DDL for rendering product on [reference page](https://www.pvcfittingsonline.com/8008-015ab-1-1-2-schedule-80-pvc-pipe-5-ft-section.html#) @ `sql/ddl.sql`.
 
 ## How to run API Interaction
 
@@ -67,12 +73,8 @@ python main.py --request-type="delete-todo" --todo-id=201
 
 **It is assumed the user is at the root of this project and is using a UNIX style command line environment when referencing the CLI commands below.**
 
-Run the following command where the value of the `file-path` argument is an absolute path or path relative to the root this project to the file needed:
+Run the following command where the value of the `file-path` argument is an absolute path or relative path to the file needed:
 
 ```
 python scripts/permutations.py --file-path="./example/relative-path.txt"
 ```
-
-Data needed for Product Detail page
-
--
