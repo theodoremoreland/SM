@@ -3,17 +3,20 @@
 ## Table of contents
 
 - [Product detail page ERD](#product-detail-page-erd)
+  - [Reference page](#reference-page)
   - [Corresponding MySQL DDL](#corresponding-mysql-ddl)
 - [How to run API Interaction](#how-to-run-api-interaction)
 - [How to run permutations.py](#how-to-run-permutationspy)
 
 ## Product detail page ERD
 
-An entity relationship diagram for product details page.
+An entity relationship diagram draft for product details page. Review SQL @ [sql/ddl.sql](https://github.com/theodoremoreland/service_metal_products/blob/main/sql/ddl.sql) to see updated entity model.
 
 <img src="sql/SMT ERD.png" width="600">
 
-Reference page: https://www.pvcfittingsonline.com/8008-015ab-1-1-2-schedule-80-pvc-pipe-5-ft-section.html#
+### Reference page
+
+https://www.pvcfittingsonline.com/8008-015ab-1-1-2-schedule-80-pvc-pipe-5-ft-section.html#
 
 ### Corresponding MySQL DDL
 
