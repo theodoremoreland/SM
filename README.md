@@ -20,7 +20,7 @@ https://www.pvcfittingsonline.com/8008-015ab-1-1-2-schedule-80-pvc-pipe-5-ft-sec
 
 ### Corresponding MySQL DDL
 
-Find MySQL DDL for rendering product on [reference page](https://www.pvcfittingsonline.com/8008-015ab-1-1-2-schedule-80-pvc-pipe-5-ft-section.html#) @ [`sql/ddl.sql`](https://github.com/theodoremoreland/SM).
+Find MySQL DDL for rendering product on [reference page](https://www.pvcfittingsonline.com/8008-015ab-1-1-2-schedule-80-pvc-pipe-5-ft-section.html#) @ [`sql/ddl.sql`]([https://github.com/theodoremoreland/SM](https://github.com/theodoremoreland/SM/blob/main/sql/ddl.sql)).
 
 ## How to run API Interaction
 
